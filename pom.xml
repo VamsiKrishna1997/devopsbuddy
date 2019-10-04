@@ -15,8 +15,10 @@
 	<description>Startup-ready web skeleton project</description>
 
 	<properties>
+		 <start-class>com.devopsbuddy.DevopsbuddyApplication</start-class>
 		<java.version>1.8</java.version>
 	</properties>
+
 
 	<dependencies>
 	
